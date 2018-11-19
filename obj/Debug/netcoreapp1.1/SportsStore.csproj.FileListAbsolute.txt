@@ -1,0 +1,11 @@
+F:\dev\angularmvc\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+F:\dev\angularmvc\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+F:\dev\angularmvc\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+F:\dev\angularmvc\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+F:\dev\angularmvc\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojAssemblyReference.cache
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfoInputs.cache
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+F:\dev\angularmvc\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb

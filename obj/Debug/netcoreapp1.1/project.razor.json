@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\dev\\angularmvc\\SportsStore\\SportsStore.csproj",
+  "TargetFramework": "netcoreapp1.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-1.1",
+    "LanguageVersion": "1.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-1.1"
+      }
+    ]
+  }
+}

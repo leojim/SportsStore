@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EQ-Leo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EQ-Leo\\.nuget\\packages"
+    ]
+  }
+}
